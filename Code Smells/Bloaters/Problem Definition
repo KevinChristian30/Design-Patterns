@@ -1,0 +1,3 @@
+Bloaters are code, methods, and classes that have bloated in size that they are very difficult to work with.
+
+The code doesn't smell immediately, they accumulate over time as the program evolves.
